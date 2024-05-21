@@ -18,10 +18,10 @@ This is a simple calculator web app built to mimic the basic calculator app foun
 - JavaScript
 
 ## How to Use
-1. Clone the repository: `git clone https://github.com/yourusername/TeachNook-proj3.git`
-2. Navigate to the project directory: `cd TeachNook-proj3.git`
+1. Clone the repository: `git clone https://github.com/ROSCDX/TeachNook-proj3.git`
+2. Navigate to the project directory: `cd TeachNook-proj3`
 3. Open `index.html` in your web browser
 
-## Screenshot
+<!-- ## Screenshot -->
 <!-- ![Calculator Screenshot](path/to/your/image.png) -->
 
