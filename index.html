@@ -11,9 +11,9 @@
     <div class="calculator">
         <input type="text" id="display" readonly>
         <div class="keys">
-            <button onclick="clearDisplay()">c</button>
-            <button onclick="appendToDisplay('+/-')">+/-</button>
-            <button onclick="appendToDisplay('%')">%</button>
+            <button onclick="clearDisplay()" class="topButtons">AC</button>
+            <button onclick="positive_or_negative()" class="topButtons">+/-</button>
+            <button onclick="appendToDisplay('%')" class="topButtons">%</button>
             <button onclick="appendToDisplay('/')" class="rightButtons">/</button>
             <button onclick="appendToDisplay('7')">7</button>
             <button onclick="appendToDisplay('8')">8</button>

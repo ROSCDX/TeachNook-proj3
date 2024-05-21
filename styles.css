@@ -78,3 +78,12 @@ button:active{
 .rightButtons:active{
     background-color: hsl(36, 85%, 30%);
 }
+.topButtons{
+    background-color: hsl(0, 0%, 27%);
+}
+.topButtons:hover {
+    background-color: hsl(0, 0%, 50%);
+}
+.topButtons:active{
+    background-color: hsl(0, 0%, 60%);
+}
