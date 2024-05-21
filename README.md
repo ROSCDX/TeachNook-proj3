@@ -4,7 +4,7 @@ This is a simple calculator web app built to mimic the basic calculator app foun
 
 <!-- ![Calculator Screenshot](path/to/your/image.png) -->
 ## Live Demo
-[Live Link]([https://your-live-demo-link.com](https://roscdx.github.io/TeachNook-proj3/))
+[Live Link](https://roscdx.github.io/TeachNook-proj3/)
 
 ## Features
 - Basic arithmetic operations: addition, subtraction, multiplication, and division
