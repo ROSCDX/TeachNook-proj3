@@ -3,6 +3,7 @@
 This is a simple calculator web app built to mimic the basic calculator app found on macOS. It features basic arithmetic operations and a toggle for positive/negative values.
 
 <!-- ![Calculator Screenshot](path/to/your/image.png) -->
+
 ## Live Demo
 [Live Link](https://roscdx.github.io/TeachNook-proj3/)
 
@@ -22,6 +23,10 @@ This is a simple calculator web app built to mimic the basic calculator app foun
 2. Navigate to the project directory: `cd TeachNook-proj3`
 3. Open `index.html` in your web browser
 
-<!-- ## Screenshot -->
-<!-- ![Calculator Screenshot](path/to/your/image.png) -->
+## Screenshot 
+
+<p>
+    <img width="960px" height="540px" src="https://github.com/ROSCDX/TeachNook-proj3/blob/main/Calculator%20JS%20Image.png" alt="Calculator">
+</p>
+
 
